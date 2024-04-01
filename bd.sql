@@ -57,7 +57,7 @@ INSERT INTO n_cliente VALUES ('205', 'Kim''s Sporting BUENOs', '852-3693888','15
 INSERT INTO n_cliente VALUES ('206', 'Sportique', '33-93425722253','172 Rue de Place',
 'Cannes', NULL, 'France', NULL,'EXCELENTE', '13', '5', NULL);
 INSERT INTO n_cliente VALUES ('207', 'Tall Rock Sports', '234-16036222','10 Saint Antoine',
-'Lagos', NULL, 'Nigeria', NULL,'BUENO', NULL, '3', NULL);
+'Lagos', NULL, 'Nigeria', NULL,'BUENO', NULL, '3', NULL, NULL);
 INSERT INTO n_cliente VALUES ('208', 'Muench Sports', '49-895274449','435 Gruenestrasse',
 'Munich', NULL, 'Germany', NULL,'BUENO', '13', '5', NULL);
 
